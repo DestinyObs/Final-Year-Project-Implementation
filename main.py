@@ -13,7 +13,7 @@ img_width, img_height = 224, 224
 # !kaggle datasets download shubhamgoel27/dermnet
 
 # Define data paths
-data_path = 'path/to/downloaded/dataset/dermnet'  # Replace with actual path
+data_path = 'nawa oh'  # Replace with actual path
 
 # Define training, validation, and test set directories
 train_dir = data_path + '/train'
